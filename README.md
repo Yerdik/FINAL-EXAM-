@@ -1,2 +1,2 @@
-Here is the my final project https://www.figma.com/file/CPFodkk4UPz9fbU6Y1Dsrq/final-project?type=design&node-id=0-1&t=aq4lE5604w5uXyiy-0
+Here is the my final project https://www.figma.com/file/CPFodkk4UPz9fbU6Y1Dsrq/final-project?type=design&node-id=149%3A5096&t=oBgucaKcxF9en28G-1
 This is the template for the UniBus app,created for only university students. Why I created template for this kind of app ? Especially beacause in Almaty there 104 univercities and this app will help students to get to their destination cheap and in comfort in a free bus. Bus wiil pick up students from their Universites and get them to the dorm or every available point on map. 
